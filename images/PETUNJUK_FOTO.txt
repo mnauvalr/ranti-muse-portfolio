@@ -1,0 +1,33 @@
+======================================================================
+PETUNJUK MENGGANTI FOTO PORTOFOLIO RANTI THARINA ATIKAH
+======================================================================
+
+Cukup salin (copy-paste) foto Anda ke folder ini dengan nama file berikut:
+
+1. hero-profile.jpg
+   -> Foto profil utama di bagian paling atas website (disarankan foto portrait/tegak berkualitas tajam).
+
+2. look-1.jpg
+   -> Foto portofolio 1 (Pengantin Tradisional / Sunda Siger)
+
+3. look-2.jpg
+   -> Foto portofolio 2 (Modern & Barbie Look Glam)
+
+4. look-3.jpg
+   -> Foto portofolio 3 (Soft Glam / Flawless Wisuda)
+
+5. look-4.jpg
+   -> Foto portofolio 4 (Pengantin Tradisional / Solo Putri)
+
+6. look-5.jpg
+   -> Foto portofolio 5 (Modern Bold Eyes / Editorial Photoshoot)
+
+7. look-6.jpg
+   -> Foto portofolio 6 (Romantic Soft Peach / Lamaran)
+
+----------------------------------------------------------------------
+Tips:
+- Format file yang didukung: .jpg, .jpeg, .png, atau .webp.
+- Jika file foto Anda belum dimasukkan, website akan secara otomatis 
+  menampilkan foto contoh sementara, sehingga tampilan web tidak akan rusak.
+======================================================================
